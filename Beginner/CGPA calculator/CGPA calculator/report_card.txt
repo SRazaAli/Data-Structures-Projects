@@ -1,0 +1,8 @@
+Student Name : raza ali
+Enrolment Id : 028
+COAL	3	A	12
+DSA	3	A-	11.1
+ISL	1	B+	3.3
+Total grade points -- 26.4
+Total credit hours -- 7
+Overall GPA -- 3.77143
