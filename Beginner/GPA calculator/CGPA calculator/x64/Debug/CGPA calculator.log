@@ -1,0 +1,9 @@
+﻿  FileName.cpp
+C:\Users\lenovo\OneDrive\Desktop\CGPA calculator\CGPA calculator\FileName.cpp(29,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lenovo\OneDrive\Desktop\CGPA calculator\CGPA calculator\FileName.cpp(31,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lenovo\OneDrive\Desktop\CGPA calculator\CGPA calculator\FileName.cpp(35,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lenovo\OneDrive\Desktop\CGPA calculator\CGPA calculator\FileName.cpp(37,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lenovo\OneDrive\Desktop\CGPA calculator\CGPA calculator\FileName.cpp(41,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lenovo\OneDrive\Desktop\CGPA calculator\CGPA calculator\FileName.cpp(43,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lenovo\OneDrive\Desktop\CGPA calculator\CGPA calculator\FileName.cpp(47,20): warning C4305: '=': truncation from 'double' to 'float'
+  CGPA calculator.vcxproj -> C:\Users\lenovo\OneDrive\Desktop\CGPA calculator\x64\Debug\CGPA calculator.exe
